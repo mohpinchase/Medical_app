@@ -31,7 +31,7 @@ Medical_app/
    ```
 2. **Run the app:**
    ```bash
-   streamlit run app/index.py
+   streamlit run index.py
    ```
 
 ## Usage
